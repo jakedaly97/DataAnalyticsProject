@@ -1,19 +1,32 @@
 # Data Analytics Project
 
-My project for Principles of Data Analytics
-
-This README has been written with [GitHub's documentation on READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+This project is submitted for the Principles of Data Analytics module of the course Higher Diploma in Science in Computing in Data Analytics.
 
 
 ## About This Project
 
-This project is about...
+This project explores the famous Palmers Penguins dataset through data analyses and visualisation tools. The Palmer Penguin dataset is a widely used dataset used for teaching students the fundamentals of data analytics. The data consists of biological characteristics of three penguin species inhabiting the islands near Palmer station in Antarctica. The main objectives of this project were:
+
+1. Create a GitHub repository with a README.md and a .gitignore. Add a Jupyter notebook called penguins.ipynb and add a title to it. Find the palmerpenguins data set online and load it into your Jupyter notebook. 
+
+2. Give an overview of the data set and the variables it contains.
+
+3. Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
+
+4. Create a bar chart of an appropriate variable in the data set. Then create a histogram of an appropriate variable in the data set.
+
+5. Select two variables from the data set and provide an analysis of how correlated they are.
 
 
 ## Use of This Project
 
-This project is useful as a practical learning experience for students who are learning the fundamentals of computer programming. The project covers key functions of Python, allowing independent thinking and problem-solving skills to flourish. Through completing the tasks covered in the project, users can become proficient in the language and can gain confidence in their abilities to solve problems in real-world scenarios.
+This project serves as a practical learning experience, especially for students aiming to grasp the fundamentals of data analytics. It guides learners through:
 
+* Exploratory data analysis to understand dataset variables and plan investigative approaches.
+* Utilization of data visualization tools to construct insightful bar charts, histograms, and scatter plots.
+* Statistical analyses to identify correlations between variables and explore factors influencing penguin characteristics, such as sex and island habitat.
+
+By engaging in the analytics presented within this project, valuable insights can be gained to better our understanding of penguin biology.
 
 ## Get Started
 
