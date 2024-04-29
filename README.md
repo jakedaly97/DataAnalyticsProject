@@ -17,6 +17,51 @@ This project explores the famous Palmers Penguins dataset through data analyses 
 
 5. Select two variables from the data set and provide an analysis of how correlated they are.
 
+## Resources
+
+1. R Journal Article on Palmer Penguins Dataset
+Link: https://journal.r-project.org/articles/RJ-2022-020/
+Description: This link leads to an article in the R Journal discussing the Palmer Penguins dataset. It likely provides insights into the dataset, its structure, and its usage in data analysis.
+
+2. Statistics Easily - Categorical Variable Explanation
+Link: https://statisticseasily.com/categorical-variable/
+Description: This website explains categorical variables, including their types (nominal and ordinal), and provides examples. It's a resource for understanding the concept of categorical variables in statistics.
+
+3. Statistics Canada - Numeric Variable Explanation
+Link: https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch8/5214817-eng.htm
+Description: This link provides information on numeric variables, including their types (continuous and discrete), and their usage in statistics.
+
+4. Statology - Label Encoding vs. One-Hot Encoding
+Link: https://www.statology.org/label-encoding-vs-one-hot-encoding/
+Description: This website compares label encoding and one-hot encoding, two common techniques for encoding categorical variables in machine learning. It explains the differences between the two methods and when to use each.
+
+5. GeeksforGeeks - Histogram Plotting Tutorial with Iris Data
+Link: https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/
+Description: This tutorial on GeeksforGeeks demonstrates how to plot histograms using the Iris dataset.
+
+6. Matplotlib GitHub Repository
+Link: https://github.com/matplotlib/matplotlib
+Description: This link leads to the GitHub repository of Matplotlib.
+
+7. W3Schools - Matplotlib Scatter Plot Tutorial
+Link: https://www.w3schools.com/python/matplotlib_scatter.asp
+Description: W3Schools provides tutorials and examples for various programming languages and libraries, including Matplotlib. This specific link is likely a tutorial on how to create scatter plots using Matplotlib in Python.
+
+8. Seaborn Documentation - Regression Plot Tutorial
+Link: https://seaborn.pydata.org/tutorial/regression.html
+Description: Seaborn is a Python data visualization library built on top of Matplotlib. This link leads to the documentation/tutorial page for generating regression plots using Seaborn.
+
+9. BMJ - Correlation and Regression Explanation
+Link: https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression
+Description: The British Medical Journal (BMJ) provides educational resources on statistics, including explanations of correlation and regression. This link gives information on the coorelation coefficent.
+
+10. Towards Data Science - Penguins Dataset Overview
+Link: https://towardsdatascience.com/penguins-dataset-overview-iris-alternative-9453bb8c8d95
+Description: Towards Data Science is a website containg different data analytics projects. This specific link provides an overview of the Palmer Penguins dataset, comparing it to the Iris dataset.
+
+11. RPubs - Penguins Dataset Scatter Plot
+Link: https://rpubs.com/shahworld/scatter
+Description: RPubs is a platform for publishing R Markdown documents. Article contains an analysis of the palmer penguin dataset using scatterplots.
 
 ## Use of This Project
 
@@ -35,7 +80,7 @@ To get started with this project, users need an up-to-date version of Python ins
 
 ## Get Help
 
-For assistance, users can refer to the comments within the programs, providing insights into the written code. Additional clarification can be found in the Python documentation available at https://docs.python.org/3/, or through numerous tutorials on Python, accessible on the W3Schools website at https://www.w3schools.com/python/default.asp.
+For assistance, users can refer to the comments within the project, providing insights into the written code. Additional clarification can be found in the Python documentation available at https://docs.python.org/3/, or through numerous tutorials on Python, accessible on the W3Schools website at https://www.w3schools.com/python/default.asp.
 
 ## Contributions
 
