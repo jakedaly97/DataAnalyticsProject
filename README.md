@@ -35,31 +35,47 @@ Description: This link provides information on numeric variables, including thei
 Link: https://www.statology.org/label-encoding-vs-one-hot-encoding/
 Description: This website compares label encoding and one-hot encoding, two common techniques for encoding categorical variables in machine learning. It explains the differences between the two methods and when to use each.
 
+5. Pandas - pandas.DataFrame.value_counts()
+Link: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.value_counts.html
+Description: This method generates a histogram of the counts of non-null values in a DataFrame column.
+
+6. Pandas - pandas.DataFrame.plot()
+Link: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
+Description: This method allows you to create various types of plots directly from DataFrame objects in Pandas.
+
 5. GeeksforGeeks - Histogram Plotting Tutorial with Iris Data
 Link: https://www.geeksforgeeks.org/box-plot-and-histogram-exploration-on-iris-data/
 Description: This tutorial on GeeksforGeeks demonstrates how to plot histograms using the Iris dataset.
 
-6. Matplotlib GitHub Repository
+8. Miami University's Center for Analytics and Data Science - Python Data Cleaning Tutorial
+Link: https://miamioh.edu/centers-institutes/center-for-analytics-data-science/students/coding-tutorials/python/data-cleaning.html
+Description: Cleaning data using the functions .isnull().sum() and dropna() in pandas.
+
+9. GeeksforGeeks - How to Calculate Correlation Between Two Columns in Pandas
+Link: https://www.geeksforgeeks.org/how-to-calculate-correlation-between-two-columns-in-pandas/
+Description: How to calculate the correlation coefficent in pandas.
+
+10. Matplotlib GitHub Repository
 Link: https://github.com/matplotlib/matplotlib
 Description: This link leads to the GitHub repository of Matplotlib.
 
-7. W3Schools - Matplotlib Scatter Plot Tutorial
+11. W3Schools - Matplotlib Scatter Plot Tutorial
 Link: https://www.w3schools.com/python/matplotlib_scatter.asp
 Description: W3Schools provides tutorials and examples for various programming languages and libraries, including Matplotlib. This specific link is likely a tutorial on how to create scatter plots using Matplotlib in Python.
 
-8. Seaborn Documentation - Regression Plot Tutorial
+12. Seaborn Documentation - Regression Plot Tutorial
 Link: https://seaborn.pydata.org/tutorial/regression.html
 Description: Seaborn is a Python data visualization library built on top of Matplotlib. This link leads to the documentation/tutorial page for generating regression plots using Seaborn.
 
-9. BMJ - Correlation and Regression Explanation
+13. BMJ - Correlation and Regression Explanation
 Link: https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression
 Description: The British Medical Journal (BMJ) provides educational resources on statistics, including explanations of correlation and regression. This link gives information on the coorelation coefficent.
 
-10. Towards Data Science - Penguins Dataset Overview
+14. Towards Data Science - Penguins Dataset Overview
 Link: https://towardsdatascience.com/penguins-dataset-overview-iris-alternative-9453bb8c8d95
 Description: Towards Data Science is a website containg different data analytics projects. This specific link provides an overview of the Palmer Penguins dataset, comparing it to the Iris dataset.
 
-11. RPubs - Penguins Dataset Scatter Plot
+15. RPubs - Penguins Dataset Scatter Plot
 Link: https://rpubs.com/shahworld/scatter
 Description: RPubs is a platform for publishing R Markdown documents. Article contains an analysis of the palmer penguin dataset using scatterplots.
 
