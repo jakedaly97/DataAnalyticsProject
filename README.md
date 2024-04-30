@@ -5,7 +5,7 @@ This project is submitted for the Principles of Data Analytics module of the cou
 
 ## About This Project
 
-This project explores the famous Palmers Penguins dataset through data analyses and visualisation tools. The Palmer Penguin dataset is a widely used dataset used for teaching students the fundamentals of data analytics. The data consists of biological characteristics of three penguin species inhabiting the islands near Palmer station in Antarctica. The main objectives of this project were:
+This project explores the famous Palmer Penguins dataset through data analyses and visualisation tools. The Palmer Penguin dataset is a widely used dataset used for teaching students the fundamentals of data analytics. The data consists of biological characteristics of three penguin species inhabiting the islands near Palmer station in Antarctica. The main objectives of this project were:
 
 1. Create a GitHub repository with a README.md and a .gitignore. Add a Jupyter notebook called penguins.ipynb and add a title to it. Find the palmerpenguins data set online and load it into your Jupyter notebook. 
 
