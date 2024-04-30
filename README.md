@@ -17,6 +17,15 @@ This project explores the famous Palmer Penguins dataset through data analyses a
 
 5. **Correlation Analysis**: The relationships between different variables in the dataset are investigated, with a focus on the correlation between flipper length and body mass of the penguins.
 
+## Use of This Project
+
+This project serves as a practical learning experience, especially for students aiming to grasp the fundamentals of data analytics. It guides learners through:
+
+* Exploratory data analysis to understand dataset variables and plan investigative approaches.
+* Utilization of data visualization tools to construct insightful bar charts, histograms, and scatter plots.
+* Statistical analyses to identify correlations between variables and explore factors influencing penguin characteristics, such as sex and island habitat.
+
+By engaging in the analytics presented within this project, valuable insights can be gained to better our understanding of penguin biology.
 
 ## Resources
 
@@ -79,16 +88,6 @@ Description: Towards Data Science is a website containg different data analytics
 15. RPubs - Penguins Dataset Scatter Plot
 Link: https://rpubs.com/shahworld/scatter
 Description: RPubs is a platform for publishing R Markdown documents. Article contains an analysis of the palmer penguin dataset using scatterplots.
-
-## Use of This Project
-
-This project serves as a practical learning experience, especially for students aiming to grasp the fundamentals of data analytics. It guides learners through:
-
-* Exploratory data analysis to understand dataset variables and plan investigative approaches.
-* Utilization of data visualization tools to construct insightful bar charts, histograms, and scatter plots.
-* Statistical analyses to identify correlations between variables and explore factors influencing penguin characteristics, such as sex and island habitat.
-
-By engaging in the analytics presented within this project, valuable insights can be gained to better our understanding of penguin biology.
 
 ## Get Started
 
